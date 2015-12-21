@@ -10,6 +10,7 @@ Version control systems allow teams to colloborate on projects
  - Only completed features are commited
 ### Maturity level 2
  - something here between 1 & 2
+ - pointers to how teams can increase in maturity
 ### Maturity level 3
  - The version control system is used to authoritatively hold the projects code, dependancies and configuration. 
  - The team routinely use branches for exploritory feature development
