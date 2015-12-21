@@ -17,12 +17,15 @@ Version control systems allow teams to colloborate on projects
 
 ## Capability 2: Testing
 Verifying that the users needs are met, and that the system operates as expected
-###Maturity level 1
+
+### Maturity level 1
+  -  manual testing
   - 
+
+### Maturity level 2
+  - tdd
   - 
-###Maturity level 2
-  - 
-  - 
-###Maturity level 2
-  - 
+
+### Maturity level 3
+  - user accepance testing
   - 
