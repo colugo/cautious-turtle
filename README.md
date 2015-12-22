@@ -5,3 +5,4 @@ This model outlines the capabilities required for teams to successfully deliver 
 ## Capabilities
  1. [ Version Control](https://github.com/colugo/cautious-turtle/blob/master/Capability 1 - Version Control.md)
  2. [Quality](https://github.com/colugo/cautious-turtle/blob/master/Capability 2 - Quality.md)
+ 3. [Quality](https://github.com/colugo/cautious-turtle/blob/master/Capability 3 - Continious Delivery.md)
