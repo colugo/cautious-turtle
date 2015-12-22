@@ -5,10 +5,12 @@ Testing ensures that:
  - bugs that are fixed don't come back
 
 ```
-“If debugging is the process of removing bugs, then programming must be the process of putting them in.”
+“If debugging is the process of removing bugs,
+then programming must be the process of putting them in.”
 
 
-"Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence."
+"Program testing can be a very effective way to show the presence of bugs,
+but is hopelessly inadequate for showing their absence."
 
  -- Edsger Dijkstra
 ```
@@ -18,9 +20,9 @@ Testing ensures that:
   -  Users report more bugs then the testing process
 
 ### Level 2
-  - The project is built following TDD, and tests are run religiously throughout the developemnt process
+ - The project is built following TDD, and tests are run religiously throughout the developemnt process
  - There are several hard-coded integration tests, which rely on precise configurations of databases or responses from services.
-- Techniques such as MVC /  MVVM are used to decouple the business logic behind views from the presentation of views, allowing the logic to be 'headless' tested.
+ - Techniques such as MVC /  MVVM are used to decouple the business logic behind views from the presentation of views, allowing the logic to be 'headless' tested.
 
 ### Level 3
 
