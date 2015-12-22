@@ -1,11 +1,19 @@
 ## Capability 1: Version Control
 Version control systems allow teams to colloborate on projects, manage access and modifications to team artefacts, which are stored within a centrally available repository.
 ```
-To support collective ownership, use a concurrent model of version control. Support time travel by storing tools, libraries, documentation, and everything else related to the project in version control. (On-site customers files, too.) Keep the entire project in a single repository.
+To support collective ownership, use a concurrent model of version control.
+Support time travel by storing tools, libraries, documentation, and
+everything else related to the project in version control. (On-site customers
+files, too.) Keep the entire project in a single repository.
 
-Avoid long-lived branches, particularly for customized versions; they'll cripple your ability to deliver on a timely schedule. Instead, use configuration files and build scripts to support multiple configurations.
+Avoid long-lived branches, particularly for customized versions;
+they'll cripple your ability to deliver on a timely schedule.
+Instead, use configuration files and build scripts to support multiple
+configurations.
 
-Keep your repository clean: never check in broken code. All versions should build and pass all tests. "Iteration" versions are ready for stakeholders; "release" versions are production-ready.
+Keep your repository clean: never check in broken code. All versions should
+build and pass all tests. "Iteration" versions are ready for stakeholders;
+"release" versions are production-ready.
 
  http://www.jamesshore.com/Agile-Book/version_control.html
 ```
