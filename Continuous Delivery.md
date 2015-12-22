@@ -1,12 +1,14 @@
-## Continuous Delivery 
+## Capability 3: Continuous Delivery 
+Testing ensures that:
+
 ```
 "Releasing software is too often an art;
 it should be an engineering discipline."
 
 
-"There should be be two tasks for a human being to perform to
-deploy software into a development, test,
-or production environment:
+"There should be be two tasks for a human
+being to perform to deploy software into
+a development, test, or production environment:
 to pick the version and environment
 and to push the 'deploy' button"
 
