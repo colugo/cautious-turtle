@@ -5,20 +5,16 @@ By automating the process of testing, packaging, deploying, configuring and rele
 "Releasing software is too often an art;
 it should be an engineering discipline."
 
-"There should be be two tasks for a human
-being to perform to deploy software into
-a development, test, or production environment:
-to pick the version and environment
-and to push the 'deploy' button"
+"There should be be two tasks for a human being to perform to deploy
+software into a development, test, or production environment:
+to pick the version and environment and to push the 'deploy' button"
 
 -- David Farley
 
 
-Done means "released". This implies ownership
-of a project right up until it’s in the hands
-of the user, and working properly.
-There’s none of this "I’ve checked in my code
-so it’s done as far as I’m concerned"
+Done means "released". This implies ownership of a project right up
+until it’s in the hands of the user, and working properly.
+There’s none of this "I’ve checked in my code so it’s done as far as I’m concerned"
 
 -- James Betteley
 
