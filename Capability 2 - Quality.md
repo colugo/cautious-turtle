@@ -15,7 +15,7 @@ Keep your repository clean: never check in broken code. All versions should
 build and pass all tests. "Iteration" versions are ready for stakeholders;
 "release" versions are production-ready.
 
- http://www.jamesshore.com/Agile-Book/version_control.html
+  -- http://www.jamesshore.com/Agile-Book/version_control.html
 ```
 
 
