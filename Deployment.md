@@ -1,5 +1,7 @@
-## Capability: Continuous Delivery 
-By automating the process of testing, packaging, deploying, configuring and releasing software, delivering new features to users is quick, simple and bullet-proof.
+## Capability: Deployment 
+Deployment is the process of testing, packaging, deploying, configuring and releasing software.
+
+Delivering new features to users should quick, simple and bullet-proof.
 
 ```
 "Releasing software is too often an art;
@@ -27,6 +29,14 @@ There’s none of this "I’ve checked in my code so it’s done as far as I’m
  - stuff
 
 ### Level 3
- - stuff
+ - Zero touch deployments for all aspects of the product: code, database, configurations
+ - Deployments are instantanious with no disruption to users
+ - Automated acceptance, performance & security testing of deployments
+ - Metrics, statistics, logs and analysis im
+
+
+
+
+
 
 [Back](https://github.com/colugo/cautious-turtle)
