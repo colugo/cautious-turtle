@@ -2,7 +2,8 @@
 Version control systems allow teams to colloborate on projects, manage access and modifications to team artefacts, which are stored within a centrally available repository.
 
 Resources:
- - [infoq](http://www.infoq.com/articles/agile-version-control) 
+ - [InfoQ](http://www.infoq.com/articles/agile-version-control) 
+ - [James Shore](http://www.jamesshore.com/Agile-Book/version_control.html)
 
 ### Level 1
  - The team all have access to, and regularly use, the repository
