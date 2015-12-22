@@ -4,6 +4,9 @@
 ## Capability 1: Version Control
 Version control systems allow teams to colloborate on projects, manage access and modifications to team artefacts, which are stored within a centrally available repository.
 
+Resources:
+ - [infoq](http://www.infoq.com/articles/agile-version-control) 
+
 ### Level 1
  - The team all have access to, and regularly use, the repository
  - Only one branch is used for development
@@ -24,6 +27,8 @@ Version control systems allow teams to colloborate on projects, manage access an
  - The team exploit all features of the version control system: triggering builds, code reviews, comments, feature requests, notifications, etc
  - The repository always contains working code, and isn't ever in a broken state
  - Important points in the project's history are tagged, and archived for future reference
+
+
 
 ## Capability 2: Testing
 Verifying that the users needs are met, and that the system operates as expected
