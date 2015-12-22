@@ -28,6 +28,6 @@ but is hopelessly inadequate for showing their absence."
 
  - Code analysis tools are used to identify code coverage, which is 100% for the majority the code base
  - Automated integration and accepance testing tools are used to ensure that the overarching system works as expected
-  -  Dependancy injection and mocking frameworks are used to isolate the components under-test from the rest of the system, allowing the components to be tested for a variety of circumstances independantly of the dependancies, such as a database.
+ -  Dependancy injection and mocking frameworks are used to isolate the components under-test from the rest of the system, allowing the components to be tested for a variety of circumstances independantly of the dependancies, such as a database.
 
 [Back](https://github.com/colugo/cautious-turtle)
