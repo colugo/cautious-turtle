@@ -1,4 +1,4 @@
-## Capability 2: Quality
+## Quality
 Testing ensures that:
  -  the users needs are met
  - the system operates as expected

@@ -1,6 +1,4 @@
-## Capability 3: Continuous Delivery 
-Testing ensures that:
-
+## Continuous Delivery 
 ```
 "Releasing software is too often an art;
 it should be an engineering discipline."

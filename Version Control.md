@@ -1,4 +1,4 @@
-## Capability 1: Version Control
+## Version Control
 Version control systems allow teams to colloborate on projects, manage access and modifications to team artefacts, which are stored within a centrally available repository.
 ```
 To support collective ownership, use a concurrent model of version control.
