@@ -20,7 +20,7 @@ but is hopelessly inadequate for showing their absence."
   -  Users report more bugs then the testing process
 
 ### Level 2
- - The project is built following TDD, and tests are run religiously throughout the developemnt process
+ - The project is built following TDD, and tests are run religiously throughout the developemnt process, including on commiting to the version control repository
  - There are several hard-coded integration tests, which rely on precise configurations of databases or responses from services.
  - Techniques such as MVC /  MVVM are used to decouple the business logic behind views from the presentation of views, allowing the logic to be 'headless' tested.
 
