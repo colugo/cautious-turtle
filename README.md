@@ -14,7 +14,6 @@ The team know that there are areas that can be improved, and have some passing k
 The team can sense that things are improving, and are motivated to learn more about delivery improvements.
 
 
-
 **Level 3 - Best practice** : Teams operating at this level are on the cutting-edge of delivery practices, which are tried-and-tested to deliver better quality, robust, faster, and more meaningful products to the users.</br>
 Team members are excited and motivated to be working on cool stuff that really helps them deliver working code quickly.
 
@@ -24,6 +23,7 @@ Team members are excited and motivated to be working on cool stuff that really h
 **Note: This sequence of capabilities doesn't indicate the order they are performed!** However, some lower-numbered capabilities are pre-requisites for higher-numbered capabilities.
 
  1. Project setup
+ 1. Team
  1. [Back end Development](https://github.com/colugo/cautious-turtle/blob/master/Back end development.md)
  1. Front end Development
  1. Security
