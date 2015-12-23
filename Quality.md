@@ -5,9 +5,6 @@ Testing ensures that:
  - bugs that are fixed don't come back
 
 ```
-“If debugging is the process of removing bugs,
-then programming must be the process of putting them in.”
-
 
 "Program testing can be a very effective way to show the presence of bugs,
 but is hopelessly inadequate for showing their absence."
