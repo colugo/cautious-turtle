@@ -10,4 +10,4 @@ script:
   - cat spelling.txt
   - sed -i '/.md/d' spelling.txt
   - cat spelling.txt
-  - ! test -s spelling.txt
+  - test ! -s spelling.txt
