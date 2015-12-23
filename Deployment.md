@@ -26,7 +26,8 @@ There’s none of this "I’ve checked in my code so it’s done as far as I’m
  - Pushing to production goes directly from the developer's machine to production
 
 ### Level 2
- - There are environments specifically for testing deployments
+ - There are environments specifically for testing deployments, and the product manually passes through each environment's tests before being deployed
+ - 
 
 ### Level 3
  - Deployments are automated, and don't require any intervention from the devops team, for any component of the deployment ( configuration, data, dependencies, code, etc..)
