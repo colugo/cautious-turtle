@@ -4,9 +4,7 @@ This model outlines the capabilities required for teams to successfully deliver 
 
 ## Capabilities
 
-Each capability is a high-level activity that contributes to the overall success of project delivery.
-
-Each capability describes three levels which are indicitive of the processes teams use to implement the capability.
+Each capability is a high-level activity that contributes to the overall success of project delivery, which is broken down into three maturity levels that group the typical activities and behaviours that teams use to implement the capability.
 
 **Level 1 - Fixer-upper** : Teams are continuing to do things the way they have always been done. Processes and tools have been cobbled together over time, but aren't really helping deliver value to the users.<br/>
 The team know that there are areas that can be improved, and have some passing knowledge of best-practices, but haven't had the opportunities to try them.
