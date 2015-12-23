@@ -1,7 +1,5 @@
 ## Capability: Deployment 
-Deployment is the process of testing, packaging, deploying, configuring and releasing software.
-
-Delivering new features to users should quick, simple and bullet-proof.
+Deployment is the process of releasing new features to the users, which should quick, simple and bullet-proof.
 
 ```
 "Releasing software is too often an art;
@@ -23,16 +21,19 @@ There’s none of this "I’ve checked in my code so it’s done as far as I’m
 ```
 
 ### Level 1
- - stuff
+ - Code, dependancies and configruations are manually copied between environments
+ - There isn't any certianty about weather or not the deployment succeeded, typically users inform you that somehting has broken
 
 ### Level 2
  - stuff
 
 ### Level 3
- - Zero touch deployments for all aspects of the product: code, database, configurations
- - Deployments are instantanious with no disruption to users
- - Automated acceptance, performance & security testing of deployments
- - Metrics, statistics, logs and analysis im
+ - Deployments are automated, and don't require any intervention from the devops team, for any component of the deployment ( configuration, data, dependencies, code, etc..)
+ - Teams have absolute certianty that deployments have been successful, leading to more rapid delivery of featurs to users
+ - Deployments are near-instantaneous, and happen without any disruption to the users
+ - Individual features are atomically deployable and don't impact / aren't impacted by the in-progress development of other features
+ - Individual features can be pulled from production near-instantainously
+ - Virtualisation or configuration managemnt tools, such as docker chef or puppet, are used to ensure absolute consistency between all environments across all developers, eliminating any systemic issues due to environmental configuration
 
 
 

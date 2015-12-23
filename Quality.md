@@ -20,14 +20,14 @@ but is hopelessly inadequate for showing their absence."
   -  Users report more bugs then the testing process
 
 ### Level 2
- - The project is built following TDD, and tests are run religiously throughout the developemnt process, including on commiting to the version control repository
+ - The project is built following TDD, and tests are run religiously throughout the development process, including on committing to the version control repository
  - There are several hard-coded integration tests, which rely on precise configurations of databases or responses from services.
  - Techniques such as MVC /  MVVM are used to decouple the business logic behind views from the presentation of views, allowing the logic to be 'headless' tested.
 
 ### Level 3
 
  - Code analysis tools are used to identify code coverage, which is 100% for the majority the code base
- - Automated integration and accepance testing tools are used to ensure that the overarching system works as expected
- -  Dependancy injection and mocking frameworks are used to isolate the components under-test from the rest of the system, allowing the components to be tested for a variety of circumstances independantly of the dependancies, such as a database.
+ - Automated integration and acceptance testing tools are used to ensure that the overarching system works as expected
+ -  Dependency injection and mocking frameworks are used to isolate the components under-test from the rest of the system, allowing the components to be tested for a variety of circumstances independently of the dependencies, such as a database.
 
 [Back](https://github.com/colugo/cautious-turtle)
