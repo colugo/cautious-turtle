@@ -17,16 +17,16 @@ Resources:
 ### Level 1
  - Big ball of mud
  - Code is needlessly complex, difficult to read and poorly formatted
- - Language specific conventions aren't being followed (java:getters/setters, c#:properties, ruby:attr_accessor etc..)
+ - Language specific conventions aren't being followed (java => getters/setters, c# => properties, ruby => attr_accessor etc..)
  - Common methods and behaviour are duplicated throughout the code base
 
 ### Level 2
- - Code is clear, documented appropriately and consistently, making it easier for others to read and maintain
- - single responsiblilty classes
+ - Code is clean and appropriately documented which makes it easier for others to read and maintain
+ - Classes have a single responsibility
 
 
 ### Level 3
- - Single responsibility
+ - Single responsibility 
  - Methods are small, single purpose, and don't create side effects
 
 
