@@ -5,4 +5,7 @@ before_install:
   - sudo apt-get install -y aspell-en
 
 
-script: for f in *.md ; do echo $f ; aspell list < $f | sort | uniq -c ; done
+script: 
+  - for f in *.md ; do echo $f ; aspell list < $f | sort | uniq -c ; done >> spelling.txt
+  - cat spelling.txt
+  - find -s spelling.txt
