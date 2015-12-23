@@ -24,10 +24,11 @@ There’s none of this "I’ve checked in my code so it’s done as far as I’m
  - Code, dependencies and configurations are manually copied between environments
  - There isn't any certainty about weather or not the deployment succeeded, typically users inform you that something has broken
  - Pushing to production goes directly from the developer's machine to production
+ - Deployments require the users to stop using the product, wait for the deployment process to complete, and then try to pick up where they left off
 
 ### Level 2
  - There are environments specifically for testing deployments, and the product manually passes through each environment's tests before being deployed
- - 
+ - Deployments are scheduled to happen outside of the user's regular usage times
 
 ### Level 3
  - Deployments are automated, and don't require any intervention from the devops team, for any component of the deployment ( configuration, data, dependencies, code, etc..)
