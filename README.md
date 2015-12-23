@@ -24,7 +24,7 @@ Team members are excited and motivated to be working on cool stuff that really h
 
  1. Project setup
  1. Team
- 1. [Back end Development](https://github.com/colugo/cautious-turtle/blob/master/Back end development.md)
+ 1. [Development](https://github.com/colugo/cautious-turtle/blob/master/Development.md)
  1. Front end Development
  1. Security
  1. Persistence
