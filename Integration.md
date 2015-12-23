@@ -17,7 +17,7 @@ on projects that you want to succeed."
 
 ### Level 1
  - The only integration checks are performed by IDE or development environment, which identifies static 'compilation' miss-matches
- - At runtime, products crash in peculiur ways that don't occur during development
+ - At runtime, products crash in peculiar ways that don't occur during development
  - Each developer is responsible for setting up their own development environment, and obtaining any dependencies
  - Tests are only run when the developers remember them
  - The project is often in a broken state

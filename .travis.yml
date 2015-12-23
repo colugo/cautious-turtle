@@ -6,6 +6,6 @@ before_install:
 
 
 script: 
-  - for f in *.md ; do echo $f ; aspell --home-dir=$PWD --personal=dict-file.txt list < $f | sort | uniq -c ; done >> spelling.txt
-  - cat spelling.txt
+  - for f in *.md ; do echo $f ; aspell --home-dir=$PWD --personal=dict-file.txt list < $f | sort | uniq -c ; done
+  - for f in *.md ; aspell --home-dir=$PWD --personal=dict-file.txt list < $f | sort | uniq -c ; done >> spelling.txt
   - ! touch -s spelling.txt
