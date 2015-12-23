@@ -16,6 +16,7 @@ Resources:
  - [Big Ball of Mud](http://www.laputan.org/mud/)
  - [Express names in code](http://blog.goyello.com/2013/05/17/express-names-in-code-bad-vs-clean/)
  - [Getting started with DDD](http://www.informit.com/articles/article.aspx?p=1944876&seqNum=3)
+ - [Clean, high quality code](https://www.butterfly.com.au/thinking/blog/entry/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer)
 
 ### Level 1
  - Class, method, instance and variable names are meaningless:
@@ -26,6 +27,7 @@ Resources:
  ```
 
  - Code is needlessly complex, difficult to read and poorly formatted
+ - There are large sections of commented out code
  - The code doesn't reflect the user's vocabulary:
  ```
  patient.setShotType(ShotTypes.TYPE_FLU);
