@@ -28,7 +28,8 @@ There’s none of this "I’ve checked in my code so it’s done as far as I’m
 
 ### Level 2
  - There are environments specifically for testing deployments, and the product manually passes through each environment's tests before being deployed
- - Deployments are scheduled to happen outside of the user's regular usage times
+ - Limited smoke screen testing is performed to ensure that the deployment didn't fail, but does little to demonstrate that user functionality has been delivered
+ - Deployments are scheduled to happen outside of the user's regular usage times, in order to minimize disruption for the users.
 
 ### Level 3
  - Deployments are automated, and don't require any intervention from the devops team, for any component of the deployment ( configuration, data, dependencies, code, etc..)

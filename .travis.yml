@@ -9,4 +9,4 @@ script:
   - for f in *.md ; do echo $f ; aspell --home-dir=$PWD --personal=dict-file.txt list < $f | sort | uniq -c ; done >> spelling.txt
   - cat spelling.txt
   - sed -i '/.md/d' spelling.txt
-  - ! touch -s spelling.txt
+  - ! test -s spelling.txt
