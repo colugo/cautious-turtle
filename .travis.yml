@@ -1,4 +1,6 @@
 language: java
 
+before_install: apt-get install aspell-en
+
 script:
-  - spell README.md
+  - aspell check README.md
