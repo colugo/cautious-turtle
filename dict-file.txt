@@ -1,4 +1,4 @@
-personal_ws-1.1 en 500 
+en 500 
 md
 IDE
 runtime
@@ -10,3 +10,15 @@ Edsger
 pre
 devops
 deployable
+accessor
+administerFluVaccine
+attr
+behaviour
+currentChild
+getters
+refactored
+setDose
+setNurse
+standardAdultFluDose
+upn
+userPreferredName
