@@ -44,7 +44,7 @@ Resources:
  ```
 
  - The team don't feel proud of the code; it's difficult to work with and very brittle, resulting in stagnation, degradation and abandonment.
- - The team's velocity is very low and haphazard and unpredictable.
+ - The team's velocity is very low, haphazard and unpredictable.
  - Programming is a stressful experience.
 
 ### Level 2

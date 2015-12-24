@@ -22,10 +22,9 @@ Team members are excited and motivated to be working on cool stuff that really h
 
 **Note: This sequence of capabilities doesn't indicate the order they are performed!** However, some lower-numbered capabilities are pre-requisites for higher-numbered capabilities.
 
- 1. Project setup
- 1. Team
+ 1. [Team](https://github.com/colugo/cautious-turtle/blob/master/Team.md)
  1. [Development](https://github.com/colugo/cautious-turtle/blob/master/Development.md)
- 1. Front end Development
+ 1. Web Development
  1. Security
  1. Persistence
  1. [Version Control](https://github.com/colugo/cautious-turtle/blob/master/Version Control.md)
