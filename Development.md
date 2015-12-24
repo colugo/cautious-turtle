@@ -1,4 +1,4 @@
-## Capability: Back end development
+## Capability: Development
 
 Development converts ideas, assumptions, and user stories into a running, functioning, system.
 
