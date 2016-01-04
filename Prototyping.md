@@ -3,7 +3,7 @@
 Why do engineers build models? Why do aerospace engineers build models of aircraft? Why to structural engineers build models of bridges? What purposes to these models serve?
 
 These engineers build models to find out whether their designs will work. Aerospace engineers build models of aircraft to see whether they will fly. Structural engineers build models of bridges to see whether they will stand. Architects build models of buildings to see whether their clients will like the way they look.
-*Models are build to find out whether something will work*
+*Models are built to find out whether something will work*
 [Agile Principles, Patterns and Practices in C#](https://books.google.com.au/books?isbn=0132797143)
 
 
