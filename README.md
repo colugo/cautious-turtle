@@ -29,5 +29,6 @@ Team members are excited and motivated to be working on cool stuff that really h
  1. Persistence
  1. [Version Control](https://github.com/colugo/cautious-turtle/blob/master/Version Control.md)
  1. [Quality](https://github.com/colugo/cautious-turtle/blob/master/Quality.md)
+ 1. [Feedback](https://github.com/colugo/cautious-turtle/blob/master/Feedback.md)
  1. [Integration](https://github.com/colugo/cautious-turtle/blob/master/Integration.md)
  1. [Deployment](https://github.com/colugo/cautious-turtle/blob/master/Deployment.md)
