@@ -20,15 +20,16 @@ Team members are excited and motivated to be working on cool stuff that really h
 
 -
 
-**Note: This sequence of capabilities doesn't indicate the order they are performed!** However, some lower-numbered capabilities are pre-requisites for higher-numbered capabilities.
+**Note: This sequence of capabilities doesn't indicate the order they are performed!**
+
+However, some lower-numbered capabilities are pre-requisites for higher-numbered capabilities.
 
  1. [Team](https://github.com/colugo/cautious-turtle/blob/master/Team.md)
  1. [Development](https://github.com/colugo/cautious-turtle/blob/master/Development.md)
  1. Web Development
- 1. Security
- 1. Persistence
  1. [Version Control](https://github.com/colugo/cautious-turtle/blob/master/Version Control.md)
  1. [Quality](https://github.com/colugo/cautious-turtle/blob/master/Quality.md)
  1. [Feedback](https://github.com/colugo/cautious-turtle/blob/master/Feedback.md)
  1. [Integration](https://github.com/colugo/cautious-turtle/blob/master/Integration.md)
  1. [Deployment](https://github.com/colugo/cautious-turtle/blob/master/Deployment.md)
+ 1. DevOps
