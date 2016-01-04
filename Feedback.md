@@ -11,7 +11,9 @@ Getting feedback is critical to the usefulness and ongoing health of the system.
 
 
 Resources:
- - []()
+ - [Path Analysis in Google Analytics with Flow Visualisation](http://cutroni.com/blog/2011/10/19/path-analysis-in-google-analytics-with-flow-visualization/)
+ - [Proactively monitor your application](http://newrelic.com/synthetics)
+ - [Mastering Issues](https://guides.github.com/features/issues/)
 
 ### Level 1
  - Bug and issue lists are managed by each developer
