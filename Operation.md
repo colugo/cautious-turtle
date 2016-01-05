@@ -4,15 +4,16 @@ Overview
 
 
 ```
-One would go around the back of the computer, turn on the motor (which would come up to
+"One would go around the back of the computer, turn on the motor (which would come up to
 speed) and apply a large screwdriver to the side of it, flat on the V-belt, to increase
 the tension to bring the disc up to speed. Then the disc would stay at that speed.
 But if you weren’t very good at this, or the belt was loose, the disc might never get up
 to speed, and it could stabilise at a lower speed with a bit of slip in the belt.
 In this case data could be written on the disk in such a way that you couldn’t erase it
-under program control. You would then have to demagnetise the whole disk. The engineers
-weren’t too happy if you had an inexperienced applicant of the screwdriver, who didn’t
-know how to bring the disk up to speed.
+under program control.
+You would then have to demagnetise the whole disk. The engineers weren’t too happy if you
+had an inexperienced applicant of the screwdriver, who didn’t know how to bring the disk
+up to speed.""
 
 
 
