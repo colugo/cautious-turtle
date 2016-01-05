@@ -35,5 +35,5 @@ css
 ideo
 ipsum
 lorem
-madea
+maeda
 specialisations
