@@ -40,7 +40,7 @@ Resources:
 
 ### Level 3
  - Designers are using the production development tools (such as HTML and CSS) to produce working prototypes
-- The prototypes are version controlled, and issues/bugs/features are tracked and managed
+ - The prototypes are version controlled, and issues/bugs/features are tracked and managed
 
 
 
