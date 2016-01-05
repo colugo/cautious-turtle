@@ -19,22 +19,29 @@ I have succeeded in proving that those 10,000 ways will not work."
 
 -- John Maeda
 
-
 ```
 
 
 Resources:
- - []()
+ - [HTML and CSS](https://www.codecademy.com/learn/web)
+ - [Sketching in Code](http://alistapart.com/article/sketchingincode)
+ - [Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)
+
 
 ### Level 1
- - WYSIWYG: Axure
+ - Prototypes are designed and developed in a WYSIWYG editor, without any real understanding of the underlying technology support/limitations, or co-design with the development team. This typically leads to unimplementable prototypes. 
+ - Text content is entirely 'lorem ipsum', which doesn't convey any useful meaning to the team
+ - The prototype is entirely static, with no dynamic behavior or navigation
 
 ### Level 2
- - Designers and Developers collaborating on prototypes
+ - Designs are first tested on paper with the team and users before becoming digital. The paper designs go up on the design wall for the team to refer to throughout the process.
+ - The designers and developers collaborate on the prototypes, ensuring that all aspects of the design are implementable and sound technically
+ - Prototypes are navigable, and have measured amounts of interactive components to demonstrate particularly interesting functionality. Interactivity is only used when necessary. 
 
 ### Level 3
  - Designers are using the production development tools (such as HTML and CSS) to produce working prototypes
- - The prototypes are version controlled, **tested?**, **other capabilities?**
+- The prototypes are version controlled, and issues/bugs/features are tracked and managed
+
 
 
 [Back](https://github.com/colugo/cautious-turtle)
