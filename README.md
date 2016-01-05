@@ -2,8 +2,6 @@
 
 This model outlines the capabilities required for teams to successfully deliver transformation projects.
 
-![Build status](https://travis-ci.org/colugo/cautious-turtle.svg)
-
 ## Capabilities
 
 Each capability is a high-level activity that contributes to the overall success of project delivery, which is broken down into three maturity levels that group the typical activities and behaviours that teams use to implement the capability.
