@@ -32,4 +32,3 @@ However, some lower-numbered capabilities are pre-requisites for higher-numbered
  1. [Feedback](https://github.com/colugo/cautious-turtle/blob/master/Feedback.md)
  1. [Integration](https://github.com/colugo/cautious-turtle/blob/master/Integration.md)
  1. [Deployment](https://github.com/colugo/cautious-turtle/blob/master/Deployment.md)
- 1. [Operation](https://github.com/colugo/cautious-turtle/blob/master/Operation.md)
