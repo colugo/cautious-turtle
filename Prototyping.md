@@ -32,15 +32,18 @@ Resources:
  - Prototypes are designed and developed in a WYSIWYG editor, without any real understanding of the underlying technology support/limitations, or co-design with the development team. This typically leads to unimplementable prototypes. 
  - Text content is entirely 'lorem ipsum', which doesn't convey any useful meaning to the team
  - The prototype is entirely static, with no dynamic behavior or navigation
+ - Only the local team can see and interact with the prototypes
 
 ### Level 2
  - Designs are first tested on paper with the team and users before becoming digital. The paper designs go up on the design wall for the team to refer to throughout the process.
  - The designers and developers collaborate on the prototypes, ensuring that all aspects of the design are implementable and sound technically
  - Prototypes are navigable, and have measured amounts of interactive components to demonstrate particularly interesting functionality. Interactivity is only used when necessary. 
+ - The prototypes are version controlled, and issues/bugs/features are tracked and managed
 
 ### Level 3
  - Designers are using the production development tools (such as HTML and CSS) to produce working prototypes
- - The prototypes are version controlled, and issues/bugs/features are tracked and managed
+ - Prototypes are published to a 'live' environment, and deployed continuously throughout their development
+ - The prototypes are used to supplement user research, with activities such as alpha-beta testing used to gather large amounts of supporting data  
 
 
 
