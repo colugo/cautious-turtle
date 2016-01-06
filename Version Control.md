@@ -25,18 +25,20 @@ Resources:
  - [The Art of Agile](http://www.jamesshore.com/Agile-Book/version_control.html)
  - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
  - [A Simple Git Branching Model](https://gist.github.com/aussielunix/59957626d6eace17be64)
+ - [Atomic Commits](http://www.freshconsulting.com/atomic-commits/)
 
 ### Level 1
  - The team all have access to, and regularly use, the repository
  - Only one branch is used for development
- - Only completed features are commited to the repository
  - Only the repository features of the version control system are used
  - The repository's log is full of unhelpful and inconsistent commit messages, and it is impossible to recreate what, how, and why things were done
+ - The changes introduced in single commits is haphazard, and typically contains whatever has been changed on the local machine
 
 ### Level 2
  - Multiple branches are used to introudce new functionality, but take several days to merge back into main branch
  -  Configuration files and dependancies are stored within the version control system, but manual modifications to the development environment are required
  - Commits to the repository are made daily, typically at the end of the day.
+ - In fear of breaking the build, only completed features are committed. 
  - Other features of the version control system, such as identifying differences and metrics are starting to be used
 
 ### Level 3
@@ -44,7 +46,8 @@ Resources:
  - The team routinely use branches for exploritory feature development
  - The team contibutes to the repository multiple times thoughout the day
  - The team exploit all features of the version control system: triggering builds, code reviews, comments, feature requests, notifications, etc
- - The repository always contains working code, and isn't ever in a broken state
+ - The master branch always contains working code, and isn't ever in a broken state. Feature branches always compile, but are in varying stages of completion
+ - Commits to the repository are small, contained and atomic
  - Important points in the project's history are tagged, and archived for future reference
  - The repository's log communicates the context about why changes were made, and actions taken.
 
