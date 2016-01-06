@@ -1,5 +1,13 @@
 ## Capability: Version Control
-Version control systems allow teams to colloborate on projects, manage access and modifications to team artefacts, which are stored within a centrally available repository.
+
+Developing digital products creates files. Lots of files.
+Each of these files specifies something about the solution: how it works, how it looks, what it's called.
+The collective set of files *is* the solution.
+
+Version control systems protect these files from accidents, like deletions, by keeping track of every change that you, and your team, make.
+
+
+
 ```
 To support collective ownership, use a concurrent model of version control.
 Support time travel by storing tools, libraries, documentation, and
