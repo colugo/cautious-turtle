@@ -31,27 +31,23 @@ Resources:
  - [Atomic Commits](http://www.freshconsulting.com/atomic-commits/)
 
 ### Level 1
- - The team all have access to, and regularly use, the repository
- - Only one branch is used for development
- - Only the repository features of the version control system are used
+ - The developers are the only team members who know what a version control repository is
+ - The repository only has one branch, the trunk, that contains the code for the system. Any in-progress work is stored on the developer's machine
  - The repository's log is full of unhelpful and inconsistent commit messages, and it is impossible to recreate what, how, and why things were done
  - The changes introduced in single commits is haphazard, and typically contains whatever has been changed on the local machine
 
 ### Level 2
- - Multiple branches are used to introudce new functionality, but take several days to merge back into main branch
- -  Configuration files and dependancies are stored within the version control system, but manual modifications to the development environment are required
- - Commits to the repository are made daily, typically at the end of the day.
- - In fear of breaking the build, only completed features are committed. 
- - Other features of the version control system, such as identifying differences and metrics are starting to be used
+ - Multiple branches are used to introduce new functionality
+ - The version control system is used to authoritatively hold the projects code, dependencies and configuration
+ - Commits to the repository are made daily, typically at the end of the day before the team members go home.
+ - Ancillary features of the version control system, such as identifying differences are being used
 
 ### Level 3
- - The version control system is used to authoritatively hold the projects code, dependancies and configuration. 
- - The team routinely use branches for exploritory feature development
- - The team contibutes to the repository multiple times thoughout the day
+ - There are lots of open branches, each one containing the development on a new feature or refactoring existing ones
  - The team exploit all features of the version control system: triggering builds, code reviews, comments, feature requests, notifications, etc
  - The master branch always contains working code, and isn't ever in a broken state. Feature branches always compile, but are in varying stages of completion
- - Commits to the repository are small, contained and atomic
- - Important points in the project's history are tagged, and archived for future reference
- - The repository's log communicates the context about why changes were made, and actions taken.
+ - Changes made to the repository are small, contained and atomic, resulting in lots of frequent commits
+ - Important points in the project's history are tagged, such as milestone releases, and archived for future reference
+ - The repository's log communicates the context about why changes were made and what decisions were taken
 
 [Back](https://github.com/colugo/cautious-turtle)
