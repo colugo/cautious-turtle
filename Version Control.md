@@ -26,6 +26,7 @@ Version control systems protect these files from accidents, like deletions, by k
 
 
 Resources:
+
  - [InfoQ](http://www.infoq.com/articles/agile-version-control) 
  - [The Art of Agile](http://www.jamesshore.com/Agile-Book/version_control.html)
  - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)

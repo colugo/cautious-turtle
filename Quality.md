@@ -20,6 +20,7 @@ Testing ensures that:
 
 
 Resources:
+
  - [Getting to Zero Exceptions](http://yellerapp.com/posts/2015-06-01-getting-to-exception-zero.html)
  - [Eradicating Non-Determinism in Tests](http://martinfowler.com/articles/nonDeterminism.html)
 

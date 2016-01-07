@@ -14,6 +14,7 @@ Development converts ideas, assumptions, and user stories into a running, functi
 
 
 Resources:
+
  - [S.O.L.I.D](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
  - [Big Ball of Mud](http://www.laputan.org/mud/)
  - [Express names in code](http://blog.goyello.com/2013/05/17/express-names-in-code-bad-vs-clean/)

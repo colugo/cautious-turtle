@@ -14,8 +14,10 @@ Overview
 
 
 Resources:
+
  - [Agile Manifesto](http://agilemanifesto.org/)
  - [Effective navigation in pair programming](https://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programming)
+
 
 ### Level 1
  - The project is segmented into different features/layers, which are exclusively owned by individual members of the team
