@@ -1,9 +1,7 @@
 ---
 layout: main
-title: Index
+title: Team
 ---
-
-## Capability: Team
 
 Overview
 
@@ -42,4 +40,4 @@ Resources:
  - The team actively collaborate and participate in the design and development of user features
 
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{ site.baseurl }}/)

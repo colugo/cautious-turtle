@@ -1,19 +1,20 @@
-## Capability: Integration 
+---
+layout: main
+title: Integration
+---
 Integration combines work performed by the team into a cohesive product that functions as expected. 
 
-```
 
-"Continuous Integration is a software development practice where members of a
-team integrate their work frequently, usually each person integrates at least daily
-- leading to multiple integrations per day."
+>"Continuous Integration is a software development practice where members of a
+>team integrate their work frequently, usually each person integrates at least daily
+>- leading to multiple integrations per day."
+>
+>
+>"When to use iterative development? You should use iterative development only
+>on projects that you want to succeed."
+>
+>-- Martin Fowler
 
-
-"When to use iterative development? You should use iterative development only
-on projects that you want to succeed."
-
--- Martin Fowler
-
-```
 
 ### Level 1
  - The only integration checks are performed by IDE or development environment, which identifies static 'compilation' miss-matches
@@ -38,4 +39,4 @@ on projects that you want to succeed."
 
 
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{site.baseurl}}/)

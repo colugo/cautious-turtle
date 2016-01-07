@@ -1,24 +1,26 @@
-## Capability: Deployment 
+---
+layout: main
+title: Deployment
+---
+
 Deployment is the process of releasing new features to the users, which should quick, simple and bullet-proof.
 
-```
-"Releasing software is too often an art;
-it should be an engineering discipline."
+>"Releasing software is too often an art;
+>it should be an engineering discipline."
+>
+>"There should be be two tasks for a human being to perform to deploy
+>software into a development, test, or production environment:
+>to pick the version and environment and to push the 'deploy' button"
+>
+>-- David Farley
+>
+>
+>Done means "released". This implies ownership of a project right up
+>until it’s in the hands of the user, and working properly.
+>There’s none of this "I’ve checked in my code so it’s done as far as I’m concerned"
+>
+>-- James Betteley
 
-"There should be be two tasks for a human being to perform to deploy
-software into a development, test, or production environment:
-to pick the version and environment and to push the 'deploy' button"
-
--- David Farley
-
-
-Done means "released". This implies ownership of a project right up
-until it’s in the hands of the user, and working properly.
-There’s none of this "I’ve checked in my code so it’s done as far as I’m concerned"
-
--- James Betteley
-
-```
 
 ### Level 1
  - Code, dependencies and configurations are manually copied between environments
@@ -44,4 +46,4 @@ There’s none of this "I’ve checked in my code so it’s done as far as I’m
 
 
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{site.baseurl}}/)

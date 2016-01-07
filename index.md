@@ -1,9 +1,8 @@
 ---
 layout: main
-title: Index
+title: Alpha/Beta Tech Capability  Model
 ---
 
-#Alpha/Beta Tech Capability  Model
 
 
 This model outlines the capabilities required for teams to successfully deliver transformation projects.

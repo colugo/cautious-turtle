@@ -1,4 +1,7 @@
-## Capability: Version Control
+---
+layout: main
+title: Version Control
+---
 
 Developing digital products creates files. Lots of files.
 Each of these files specifies something about the solution: how it works, how it looks, what it's called.
@@ -8,18 +11,17 @@ Version control systems protect these files from accidents, like deletions, by k
 
 
 
-```
-To support collective ownership, use a concurrent model of version control.
-Support time travel by storing tools, libraries, documentation, and
-everything else related to the project in version control. (On-site customers
-files, too.) Keep the entire project in a single repository.
 
-Keep your repository clean: never check in broken code. All versions should
-build and pass all tests. "Iteration" versions are ready for stakeholders;
-"release" versions are production-ready.
-
-  -- http://www.jamesshore.com/Agile-Book/version_control.html
-```
+>To support collective ownership, use a concurrent model of version control.
+>Support time travel by storing tools, libraries, documentation, and
+>everything else related to the project in version control. (On-site customers
+>files, too.) Keep the entire project in a single repository.
+>
+>Keep your repository clean: never check in broken code. All versions should
+>build and pass all tests. "Iteration" versions are ready for stakeholders;
+>"release" versions are production-ready.
+>
+>  -- http://www.jamesshore.com/Agile-Book/version_control.html
 
 
 
@@ -50,4 +52,4 @@ Resources:
  - Important points in the project's history are tagged, such as milestone releases, and archived for future reference
  - The repository's log communicates the context about why changes were made and what decisions were taken
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{site.baseurl}}/)

@@ -1,13 +1,15 @@
-## Capability: Feedback
+---
+layout: main
+title: Feedback
+---
 
 Getting feedback is critical to the usefulness and ongoing health of the system.
 
-```
-"It's not a bug - it's an undocumented feature." 
 
--- Anonymous
+>"It's not a bug - it's an undocumented feature." 
+>
+>-- Anonymous
 
-```
 
 
 Resources:
@@ -33,4 +35,4 @@ Resources:
 
 
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{site.baseurl}}/)

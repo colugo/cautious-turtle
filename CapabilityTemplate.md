@@ -1,13 +1,14 @@
-## Capability: name
-
+---
+layout: main
+title: name
+---
 Overview
 
 
-```
-“Quote”
 
- -- Quotee
-```
+>“Quote”
+>
+> -- Quotee
 
 
 Resources:
@@ -23,4 +24,4 @@ Resources:
  - description
 
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{ site.baseurl }}/)

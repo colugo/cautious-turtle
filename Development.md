@@ -1,14 +1,16 @@
-## Capability: Development
-
+---
+layout: main
+title: Development
+---
 Development converts ideas, assumptions, and user stories into a running, functioning, system.
 
 
-```
-“If debugging is the process of removing bugs,
-then programming must be the process of putting them in.”
 
- -- Edsger Dijkstra
-```
+>“If debugging is the process of removing bugs,
+>then programming must be the process of putting them in.”
+>
+> -- Edsger Dijkstra
+
 
 
 Resources:
@@ -75,4 +77,4 @@ Resources:
  - Programming is fun again.
 
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{site.baseurl}}/)

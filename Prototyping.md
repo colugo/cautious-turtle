@@ -1,4 +1,7 @@
-## Capability: Prototyping
+---
+layout: main
+title: Prototyping
+---
 
 Why do engineers build models? Why do aerospace engineers build models of aircraft? Why to structural engineers build models of bridges? What purposes to these models serve?
 
@@ -7,19 +10,18 @@ These engineers build models to find out whether their designs will work. Aerosp
 [Agile Principles, Patterns and Practices in C#](https://books.google.com.au/books?isbn=0132797143)
 
 
-```
-"I have not failed 10,000 times. I have not failed once.
-I have succeeded in proving that those 10,000 ways will not work."
 
--- Thomas Edison
+>"I have not failed 10,000 times. I have not failed once.
+>I have succeeded in proving that those 10,000 ways will not work."
+>
+>-- Thomas Edison
+>
+>
+>"If a picture is worth 1000 words, a prototype is worth 1000 meetings.
+>—saying at @ideo"
+>
+>-- John Maeda
 
-
-"If a picture is worth 1000 words, a prototype is worth 1000 meetings.
-—saying at @ideo"
-
--- John Maeda
-
-```
 
 
 Resources:
@@ -47,4 +49,4 @@ Resources:
 
 
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{site.baseurl}}/)

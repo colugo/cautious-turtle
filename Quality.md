@@ -1,22 +1,23 @@
-## Capability: Quality
+---
+layout: main
+title: Quality
+---
+
 Testing ensures that:
  -  the users needs are met
  - the system operates as expected
  - bugs that are fixed don't come back
 
-```
+>"Program testing can be a very effective way to show the presence of bugs,
+>but is hopelessly inadequate for showing their absence."
+>
+> -- Edsger Dijkstra
+>
+>
+>"Sometimes things fall apart so that better things can fall together"
+>
+> -- Marilyn Monroe
 
-"Program testing can be a very effective way to show the presence of bugs,
-but is hopelessly inadequate for showing their absence."
-
- -- Edsger Dijkstra
-
-
-"Sometimes things fall apart so that better things can fall together"
-
- -- Marilyn Monroe
-
-```
 
 Resources:
  - [Getting to Zero Exceptions](http://yellerapp.com/posts/2015-06-01-getting-to-exception-zero.html)
@@ -43,4 +44,4 @@ Resources:
  -  Dependency injection and mocking frameworks are used to isolate the components under-test from the rest of the system, allowing the components to be tested for a variety of circumstances independently of the dependencies, such as a database.
  - The team have a 'zero exceptions in production' mantra.
 
-[Back](https://github.com/colugo/cautious-turtle)
+[Back]({{site.baseurl}}/)
