@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+  <title>{{ page.title }} : Technology Capability Model</title>
+
+  <style type="text/css">
+    @import url("{{ site.baseurl }}/stylesheets/discovery-guide.css");
+  </style>
+</head>
+<body>
+
+<header>
+  <h1><a href="{{ site.baseurl }}/">DTO Guide to Discovery</a> <span class="draft">Draft</span></h1>
+</header>
+
+<main>
+  <article>
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+  </article>
+
+  <nav>
+   {% markdown navigation.md %}
+  </nav>
+</main>
+
+</body>
+</html>

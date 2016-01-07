@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+body {
+  background: #fdfdfd;
+}
+
+header {
+  background: $primary-colour;
+  padding: 12px;
+}
+
+main {
+  position: relative;
+
+  article {
+    padding: 20px;
+
+    @media (min-width: 800px) {
+      width: 60%;
+      margin: 0 0 0 250px;
+    }
+
+    img {
+      max-width: 100%;
+    }
+  }
+}
+
+.video {
+  padding: 15px 0;
+}
+
+img.full-width {
+  width: 100%;
+}
+img.half-width {
+  display: inline;
+  width: 50%;
+}

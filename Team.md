@@ -1,13 +1,18 @@
+---
+layout: main
+title: Index
+---
+
 ## Capability: Team
 
 Overview
 
 
-```
-"Coming together is a beginning. Keeping together is progress. Working together is success"
 
- -- Henry Ford
-```
+>"Coming together is a beginning. Keeping together is progress. Working together is success"
+>
+> -- Henry Ford
+
 
 
 Resources:
