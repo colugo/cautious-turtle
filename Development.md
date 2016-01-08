@@ -24,27 +24,24 @@ Resources:
 ### Level 1
  - Class, method, instance and variable names are meaningless:
  
- ```
- int i;
- String upn;
- ```
+> int i;
+> String upn;
 
  - Code is needlessly complex, difficult to read and poorly formatted
  - There are large sections of commented out code
  - The code doesn't reflect the user's vocabulary:
- ```
- patient.setShotType(ShotTypes.TYPE_FLU);
- patient.setDose(dose);
- patient.setNurse(nurse);
- ```
+ 
+> patient.setShotType(ShotTypes.TYPE_FLU);
+> patient.setDose(dose);
+> patient.setNurse(nurse);
+
 
  - Language specific conventions aren't being followed ( java => getters/setters, c# => properties, ruby => attr_accessor, etc.. )
  - Common methods and behaviour are duplicated throughout the code base
  - Objects exhibit inappropriate intimacy and indecent exposure:
 
- ```
- return getWindow().getForm().getElements().getElementById('name').getLength();
- ```
+> return getWindow().getForm().getElements().getElementById('name').getLength();
+
 
  - The team don't feel proud of the code; it's difficult to work with and very brittle, resulting in stagnation, degradation and abandonment.
  - The team's velocity is very low, haphazard and unpredictable.
@@ -53,10 +50,8 @@ Resources:
 ### Level 2
  - Class, method, instance and variable names convey their intent and purpose:
 
- ```
- int currentChild;
- String userPreferredName;
- ``` 
+> int currentChild;
+> String userPreferredName;
 
  - Code is clean and appropriately documented which makes it easier for others to read and maintain
  - Technical debt is continually measured, and given high priority during sprint planning
@@ -67,10 +62,8 @@ Resources:
  - Methods are small, single purpose, and don't create side effects
  - Code is self-documenting, and the intent and structure are self-evident based on the user's vocabulary:
 
- ```
- Vaccine vaccine = vaccines.standardAdultFluDose();
- nurse.administerFluVaccine(patient, vaccine);
- ```
+> Vaccine vaccine = vaccines.standardAdultFluDose();
+> nurse.administerFluVaccine(patient, vaccine);
 
  - Code is continually refactored to be simpler, cleaner, easier to understand and work with
  - The team are proud of their code; it's a joy to work on and improve. Introducing new features is quick, simple.
