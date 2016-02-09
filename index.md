@@ -29,10 +29,10 @@ Team members are excited and motivated to be working on cool stuff that really h
 ## Assessing people against the capabilities
 [Here](https://docs.google.com/spreadsheets/d/1TTYaTRfbTqeLqGc4BiIrodcxnI205DJx4CnziXJMJgU/edit#gid=667432916) is a spreadsheet that will help you assess people against the capabilities by providing sample questions, explanations, and keywords you can use to prompt the person.
 
-** Example questions **
+**Example questions**
 
-![Example questions ]( {{site.url}}/images/example_questions.jpg)
+![Example questions ](https://raw.githubusercontent.com/colugo/cautious-turtle/gh-pages/images/example_questions.jpg)
 
-** Example score card **
+**Example score card**
 
-![Example scorecard ]({{site.url}}/images/example_scorecard.jpg)
+![Example scorecard ](https://raw.githubusercontent.com/colugo/cautious-turtle/gh-pages/images/example_scorecard.jpg)
