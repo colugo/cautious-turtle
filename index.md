@@ -24,3 +24,15 @@ The team can sense that things are improving, and are motivated to learn more ab
 **Level 3 - Best practice** : Teams operating at this level are on the cutting-edge of delivery practices, which are tried-and-tested to deliver better quality, robust, faster, and more meaningful products to the users.
 
 Team members are excited and motivated to be working on cool stuff that really helps them deliver working code quickly.
+
+
+## Assessing people against the capabilities
+[Here](https://docs.google.com/spreadsheets/d/1TTYaTRfbTqeLqGc4BiIrodcxnI205DJx4CnziXJMJgU/edit#gid=667432916) is a spreadsheet that will help you assess people against the capabilities by providing sample questions, explanations, and keywords you can use to prompt the person.
+
+** Example questions **
+
+![Example questions ]( {{site.url}}/images/example_questions.jpg)
+
+** Example score card **
+
+![Example scorecard ]({{site.url}}/images/example_scorecard.jpg)
