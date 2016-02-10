@@ -57,6 +57,11 @@ li {
   &:last-of-type {
     padding-bottom: 0;
   }
+
+  li,a {
+    text-decoration: none;
+    color:black;
+  }
 }
 
 a {
