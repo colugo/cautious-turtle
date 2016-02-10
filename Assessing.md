@@ -4,7 +4,9 @@ title: Assessing against the Model
 ---
 
 
-[Here](https://docs.google.com/spreadsheets/d/1TTYaTRfbTqeLqGc4BiIrodcxnI205DJx4CnziXJMJgU/edit#gid=667432916) is a spreadsheet with sample questions, explanations, and keywords that might help you assess people against the capabilities.
+[Here](https://docs.google.com/spreadsheets/d/1TTYaTRfbTqeLqGc4BiIrodcxnI205DJx4CnziXJMJgU/edit#gid=667432916) is a google spreadsheet with sample questions, explanations, and keywords that might help you assess people against the capabilities.
+
+If you access the spreadsheet while signed in with a google account, you can take a copy of the spreadsheet and save changes.
 
 **Example questions**
 
