@@ -58,9 +58,11 @@ li {
     padding-bottom: 0;
   }
 
-  li,a {
-    text-decoration: none;
-    color:black;
+  li{
+    a {
+      text-decoration: none;
+      color:black;
+    }
   }
 }
 
