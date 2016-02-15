@@ -4,7 +4,8 @@ title: Assessing against the Model
 ---
 
 
-[Here](https://docs.google.com/spreadsheets/d/1TTYaTRfbTqeLqGc4BiIrodcxnI205DJx4CnziXJMJgU/edit#gid=667432916) is a google spreadsheet with sample questions, explanations, and keywords that might help you assess people against the capabilities.
+To help you assess and compare people against the standard, [here](https://docs.google.com/spreadsheets/d/1TTYaTRfbTqeLqGc4BiIrodcxnI205DJx4CnziXJMJgU/edit#gid=667432916) is a **draft** capability scorecard with sample questions, explanations, and keywords that will help you ask the right kinds of questions. After you complete the scorecard, it will calculate a score for each of the capabilities, and an overall score.
+
 
 If you access the spreadsheet while signed in with a google account, you can take a copy of the spreadsheet and save changes.
 
